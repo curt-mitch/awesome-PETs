@@ -1,4 +1,4 @@
-# Awesome Pets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PETs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of resources for privacy-enhancing technologies
 
