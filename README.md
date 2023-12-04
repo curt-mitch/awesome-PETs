@@ -11,7 +11,7 @@
 - [Homomorphic Encryption](#homomorphic-encryption)
 - [Secure Multiparty Computation](#secure-multiparty-computation)
 - [Synthetic Data](#synthetic-data)
-- [Zero-Knowledge Proofs](#zero-knowledge-proofs)
+- [Zero-knowledge Proofs and zk-SNARKs](#zero-knowledge-proofs-and-zk-snarks)
 - [Privacy-Preserving Hardware](#privacy-preserving-hardware)
 
 ## General
@@ -36,59 +36,50 @@ General resources about PETs and related concepts
 
 - [Shifting Privacy Left](https://shiftingprivacyleft.com/) - Podcast hosted by privacy and legal expert Debra J Farber featuring interviews and discussions with various privacy and PETs experts.
 
-
 ## Differential Privacy
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Books
+
+- [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Free, online book focused on DP principles and theory
+
+- [Programming Differential Privacy](https://programming-dp.com/) - Free, online book focused on teaching DP principles through Python code examples
+
+### Open-Source Tools
+
+- [OpenDP](https://github.com/opendp/opendp) - Python bindings for OpenDP's Rust-based framework.
 
 
 ## Federated Learning
 
-### Subsection
+### Open-Source Tools
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Flower](https://flower.dev/) - A unified FL framework available in multiple languages
 
 ## Homomorphic Encryption
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+See the **Awesome Homomorphic Encryption List** (github: [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he)).
 
 ## Secure Multiparty Computation
 
-### Subsection
+See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc)).
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Videos
+
+- [Multiparty Computation - Computational Thinking](https://www.youtube.com/watch?v=5qzNe1hk0oY) - 5 minute intro on MPC and secret sharing examples and concepts
 
 ## Synthetic Data
 
-### Subsection
+## Zero-knowledge Proofs and zk-SNARKs
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+### Videos
 
-## Zero-knowledge Proofs
-
-### zk-SNARKs
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Zero Knowledge Proofs - Computational Thinking](https://www.youtube.com/watch?v=5qzNe1hk0oY) - 9 minute intro on ZKP examples and concepts
 
 ## Privacy-preserving Hardware
 
 ### Secure Enclaves
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
 ### Clean rooms
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 ## Contribute
 
