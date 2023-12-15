@@ -92,9 +92,9 @@ See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/r
 
 ## Privacy-preserving Hardware
 
-### Secure Enclaves
+### Blogs
 
-### Clean rooms
+- [State of the Future - Trusted Execution Environments (TEEs) and Confidential Computing](https://stateofthefuture.substack.com/p/e19-trusted-execution-environments) - Overview from a VC blog on what trusted-execution environments are and how they enable privacy-preserving, collaborative computing
 
 ## Contribute
 
