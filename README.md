@@ -32,6 +32,8 @@ General resources about PETs and related concepts
 
 - [Privacy enhancing technologies: Adoption guide](https://www.gov.uk/government/publications/privacy-enhancing-technologies-adoption-guide) - A white paper and interactive tool on adopting PETs for projects provided by the UK government's Centre for Data Ethics and Innovation.
 
+- [The United Nations Guide on Privacy-Enhancing Technologies for Official Statistics](https://unstats.un.org/bigdata/task-teams/privacy/guide/2023_UN%20PET%20Guide.pdf)
+
 ### Podcasts
 
 - [Shifting Privacy Left](https://shiftingprivacyleft.com/) - Podcast hosted by privacy and legal expert Debra J Farber featuring interviews and discussions with various privacy and PETs experts.
@@ -69,7 +71,17 @@ See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/r
 
 ## Synthetic Data
 
+### Tools
+
+[DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) - A Python-based tool for generating differentally-private synthetic data
+
 ## Zero-knowledge Proofs and zk-SNARKs
+
+## Blogs and Tutorials
+
+- [Zero Knowledge What? An Introduction to Zero Knowledge](https://codethechange.stanford.edu/guides/guide_zk.html) - A technical introduction (including basic Python examples) from Stanford's [Code the Change](https://codethechange.stanford.edu/#/) guides.
+
+- [Zero-Knowledge: a tutorial by Oded Goldreich](https://www.wisdom.weizmann.ac.il/~oded/zk-tut02.html) - A tutorial covering introductory and advanced topics in Zero-knowledge proofs
 
 ### Videos
 
