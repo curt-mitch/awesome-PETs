@@ -50,6 +50,9 @@ General resources about PETs and related concepts
 
 - [OpenDP](https://github.com/opendp/opendp) - Python bindings for OpenDP's Rust-based framework.
 
+### Papers
+
+- [Guidelines for Evaluating Differential Privacy Guarantees](https://csrc.nist.gov/pubs/sp/800/226/ipd) - NIST publication providing an overview of DP with a focus on practical considerations and common pitfalls when using DP in practice.
 
 ## Federated Learning
 
