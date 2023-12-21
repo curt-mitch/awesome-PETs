@@ -40,6 +40,12 @@ General resources about PETs and related concepts
 
 ## Differential Privacy
 
+### Blogs
+
+- [NIST Differential Privacy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/blog-series-1) - A blog series from NIST covering topics from introductory concepts to deploying DP-based applications.
+
+- [A friendly, non-technical introduction to differential privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) - A useful series of posts and visualizations introducing DP and related concepts from Damien Desfontaines, a.k.a. Ted, a research scientist at [Tumult Labs](https://www.tmlt.io/).
+
 ### Books
 
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Free, online book focused on DP principles and theory
@@ -53,6 +59,14 @@ General resources about PETs and related concepts
 ### Papers
 
 - [Guidelines for Evaluating Differential Privacy Guarantees](https://csrc.nist.gov/pubs/sp/800/226/ipd) - NIST publication providing an overview of DP with a focus on practical considerations and common pitfalls when using DP in practice.
+
+- [Differential Privacy: A Primer for a Non-Technical Audience](https://scholarship.law.vanderbilt.edu/jetlaw/vol21/iss1/4/) - In-depth yet accessible overview of DP.
+
+- [Issues Encountered Deploying Differential Privacy](https://arxiv.org/abs/1809.02201) - Review of deployment and usage of DP for the 2020 United States population census.
+
+### Videos
+
+- [Protecting Privacy with MATH](https://www.youtube.com/watch?v=pT19VwBAqKA) - Overview of DP and related concepts by the [MinutePhysics](https://www.youtube.com/@MinutePhysics) channel in collaboration with the US Census Bureau.
 
 ## Federated Learning
 
