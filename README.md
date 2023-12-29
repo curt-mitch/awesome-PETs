@@ -2,12 +2,11 @@
 
 > A curated list of resources for privacy-enhancing technologies
 
-
 ## Contents
 
 - [General](#general)
 - [Differential Privacy](#differential-privacy)
-- [Federated Learning](#federated-learning)
+- [Privacy-Preserving Federated Learning](#privacy-preserving-federated-learning)
 - [Homomorphic Encryption](#homomorphic-encryption)
 - [Secure Multiparty Computation](#secure-multiparty-computation)
 - [Synthetic Data](#synthetic-data)
@@ -23,6 +22,8 @@ General resources about PETs and related concepts
 ### Books
 
 - [Practical Data Privacy](https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/) - An overview of privacy and how to apply it in technical systems and organizations. Includes introductions to various PETs.
+
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - The majority of the book is an introduction to cryptography and cryptographic applications with additional material covering PETs such as multi-party computation, homomorphic encryption, zero-knowledge proofs, and cryptographic hardware.
 
 ### Blogs
 
@@ -68,11 +69,25 @@ General resources about PETs and related concepts
 
 - [Protecting Privacy with MATH](https://www.youtube.com/watch?v=pT19VwBAqKA) - Overview of DP and related concepts by the [MinutePhysics](https://www.youtube.com/@MinutePhysics) channel in collaboration with the US Census Bureau.
 
-## Federated Learning
+## Privacy-Preserving Federated Learning
+
+- Federated learning by itself does not guarantee data privacy, but when used in combination with other PETs it can become privacy-preserving.
+
+### Papers
+
+- [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629) - Paper that introduced the popular FedAvg algorithm
 
 ### Open-Source Tools
 
-- [Flower](https://flower.dev/) - A unified FL framework available in multiple languages
+- (APPFL)[https://github.com/APPFL/APPFL] - Advanced Privacy-Preserving Federated Learning built my Argonne National Labs. Includes differential-privacy and the ability to incorporate other PETs
+
+- (FedML)[https://www.fedml.ai/] -  [Github Repository](https://github.com/fedml-ai/fedml)
+
+- [Flower](https://flower.dev/) - A unified FL framework available in multiple languages. Flower does not include privacy preservation itself, but is intended to be used in conjunction with other ML and PPML frameworks.
+
+- [OpenFL](https://github.com/securefederatedai/openfl) -
+
+###
 
 ## Homomorphic Encryption
 
@@ -94,11 +109,20 @@ See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/r
 
 ## Zero-knowledge Proofs and zk-SNARKs
 
-## Blogs and Tutorials
+### General
+- [ZKProof](https://zkproof.org/) - An open-industry academic initiative seeking to develop standards for ZKPs. The organization also conducts workshops, publishes research, educational material, etc.
+
+### Blogs and Tutorials
 
 - [Zero Knowledge What? An Introduction to Zero Knowledge](https://codethechange.stanford.edu/guides/guide_zk.html) - A technical introduction (including basic Python examples) from Stanford's [Code the Change](https://codethechange.stanford.edu/#/) guides.
 
 - [Zero-Knowledge: a tutorial by Oded Goldreich](https://www.wisdom.weizmann.ac.il/~oded/zk-tut02.html) - A tutorial covering introductory and advanced topics in Zero-knowledge proofs
+
+### Papers
+
+- [The knowledge complexity of interactive proof-systems](https://dl.acm.org/doi/10.1145/22145.22178) - The original paper introducing zero-knowledge proofs
+
+- [A physical zero-knowledge object-comparison system for nuclear warhead verification](https://arxiv.org/abs/1602.07717) - A proposed mechanism to use ZKPs for nuclear armament reduction
 
 ### Videos
 
