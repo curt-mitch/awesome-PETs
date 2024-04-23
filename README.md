@@ -79,7 +79,7 @@ General resources about PETs and related concepts
 
 ### Open-Source Tools
 
-- (APPFL)[https://github.com/APPFL/APPFL] - Advanced Privacy-Preserving Federated Learning built my Argonne National Labs. Includes differential-privacy and the ability to incorporate other PETs
+- (APPFL)[https://github.com/APPFL/APPFL] - Advanced Privacy-Preserving Federated Learning built my Argonne National Labs aimed at high-performance computing applications. Includes differential-privacy and the ability to incorporate other PETs
 
 - (FedML)[https://www.fedml.ai/] -  [Github Repository](https://github.com/fedml-ai/fedml)
 
@@ -123,6 +123,8 @@ See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/r
 - [The knowledge complexity of interactive proof-systems](https://dl.acm.org/doi/10.1145/22145.22178) - The original paper introducing zero-knowledge proofs
 
 - [A physical zero-knowledge object-comparison system for nuclear warhead verification](https://arxiv.org/abs/1602.07717) - A proposed mechanism to use ZKPs for nuclear armament reduction
+
+- [Why and How zk-SNARK Works](https://arxiv.org/abs/1906.07221) - Good overview of the building blocks that zk-SNARKs are composed of
 
 ### Videos
 
