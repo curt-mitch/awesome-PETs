@@ -19,6 +19,8 @@ General resources about PETs and related concepts
 
 ### Articles
 
+- [Privacy Enhancing Technologies: An Introduction for Technologists](https://martinfowler.com/articles/intro-pet.html) - Overview of PETs from Katharine Jarmul, the author of Practical Data Privacy.
+
 ### Books
 
 - [Practical Data Privacy](https://www.oreilly.com/library/view/practical-data-privacy/9781098129453/) - An overview of privacy and how to apply it in technical systems and organizations. Includes introductions to various PETs.
@@ -65,6 +67,8 @@ General resources about PETs and related concepts
 
 - [Issues Encountered Deploying Differential Privacy](https://arxiv.org/abs/1809.02201) - Review of deployment and usage of DP for the 2020 United States population census.
 
+- [Differential Privacy & the 2020 U.S. Census Reading List](https://priyakalot.github.io/DP-census/) - Collection of writings and presentations reviewing the usage of DP in the 2020 U.S. Census.
+
 ### Videos
 
 - [Protecting Privacy with MATH](https://www.youtube.com/watch?v=pT19VwBAqKA) - Overview of DP and related concepts by the [MinutePhysics](https://www.youtube.com/@MinutePhysics) channel in collaboration with the US Census Bureau.
@@ -92,6 +96,10 @@ General resources about PETs and related concepts
 ## Homomorphic Encryption
 
 See the **Awesome Homomorphic Encryption List** (github: [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he)).
+
+### Blogs
+
+- [A High-Level Technical Overview of Fully Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/) - Great overview of FHE from Jeremy Kun's Math ∩ Programming blog
 
 ## Secure Multiparty Computation
 
