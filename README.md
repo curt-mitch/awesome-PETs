@@ -43,6 +43,8 @@ General resources about PETs and related concepts
 
 ## Differential Privacy
 
+See the **Awesome Differential Privacy List** (github: [menisadi/awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy)).
+
 ### Blogs
 
 - [NIST Differential Privacy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/blog-series-1) - A blog series from NIST covering topics from introductory concepts to deploying DP-based applications.
@@ -85,13 +87,13 @@ There are several different Awesome lists for federated learning, but this one s
 
 ### Open-Source Tools
 
-- (APPFL)[https://github.com/APPFL/APPFL] - Advanced Privacy-Preserving Federated Learning built my Argonne National Labs aimed at high-performance computing applications. Includes differential-privacy and the ability to incorporate other PETs
+- [APPFL](https://github.com/APPFL/APPFL) - Advanced Privacy-Preserving Federated Learning built my Argonne National Labs aimed at high-performance computing applications. Includes differential-privacy and the ability to incorporate other PETs
 
-- (FedML)[https://www.fedml.ai/] -  [Github Repository](https://github.com/fedml-ai/fedml)
+- [FedML](https://www.fedml.ai/) -  Github Repository: [https://github.com/fedml-ai/fedml](https://github.com/fedml-ai/fedml)
 
 - [Flower](https://flower.dev/) - A unified FL framework available in multiple languages. Flower does not include privacy preservation itself, but is intended to be used in conjunction with other ML and PPML frameworks.
 
-- [OpenFL](https://github.com/securefederatedai/openfl) -
+- [OpenFL](https://github.com/securefederatedai/openfl) - Open-source FL framework hosted by the Linux Foundation.
 
 ###
 
