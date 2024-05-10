@@ -75,7 +75,9 @@ General resources about PETs and related concepts
 
 ## Privacy-Preserving Federated Learning
 
-- Federated learning by itself does not guarantee data privacy, but when used in combination with other PETs it can become privacy-preserving.
+**Note**: Federated learning by itself does not guarantee data privacy, but when used in combination with other PETs it can become privacy-preserving.
+
+There are several different Awesome lists for federated learning, but this one seems to be the most popular. Note that it's federated learning generally, not just PPFL: [https://github.com/innovation-cat/Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning)
 
 ### Papers
 
@@ -116,6 +118,8 @@ See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/r
 [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) - A Python-based tool for generating differentally-private synthetic data
 
 ## Zero-knowledge Proofs and zk-SNARKs
+
+See the **Awesome Zero Knowledge Proofs List** (github: [https://github.com/matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs))
 
 ### General
 - [ZKProof](https://zkproof.org/) - An open-industry academic initiative seeking to develop standards for ZKPs. The organization also conducts workshops, publishes research, educational material, etc.
