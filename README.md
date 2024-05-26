@@ -45,17 +45,21 @@ General resources about PETs and related concepts
 
 See the **Awesome Differential Privacy List** (github: [menisadi/awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy)).
 
-### Blogs
+### Blogs and Websites
 
 - [NIST Differential Privacy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/blog-series-1) - A blog series from NIST covering topics from introductory concepts to deploying DP-based applications.
 
 - [A friendly, non-technical introduction to differential privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) - A useful series of posts and visualizations introducing DP and related concepts from Damien Desfontaines, a.k.a. Ted, a research scientist at [Tumult Labs](https://www.tmlt.io/).
+
+- [DifferentialPrivacy.org](https://differentialprivacy.org/) - A website with resources curated by the DP research community. It includes several courses, videos, surveys, and links to other resources.
 
 ### Books
 
 - [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf) - Free, online book focused on DP principles and theory
 
 - [Programming Differential Privacy](https://programming-dp.com/) - Free, online book focused on teaching DP principles through Python code examples
+
+- [Hands-On Differential Privacy](https://www.oreilly.com/library/view/hands-on-differential-privacy/9781492097730/) - An O'Reilly book analyzing practical DP methods with a focus on using the OpenDP library
 
 ### Open-Source Tools
 
