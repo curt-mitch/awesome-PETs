@@ -45,13 +45,17 @@ General resources about PETs and related concepts
 
 See the **Awesome Differential Privacy List** (github: [menisadi/awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy)).
 
-### Blogs and Websites
+### Organizations
+
+- [DifferentialPrivacy.org](https://differentialprivacy.org/) - A website with resources curated by the DP research community. It includes several courses, videos, surveys, and links to other resources.
+
+- [OpenDP](https://opendp.org/) - Open-source group developing DP tools.
+
+### Blogs
 
 - [NIST Differential Privacy Blog Series](https://www.nist.gov/itl/applied-cybersecurity/privacy-engineering/collaboration-space/focus-areas/de-id/blog-series-1) - A blog series from NIST covering topics from introductory concepts to deploying DP-based applications.
 
 - [A friendly, non-technical introduction to differential privacy](https://desfontain.es/privacy/friendly-intro-to-differential-privacy.html) - A useful series of posts and visualizations introducing DP and related concepts from Damien Desfontaines, a.k.a. Ted, a research scientist at [Tumult Labs](https://www.tmlt.io/).
-
-- [DifferentialPrivacy.org](https://differentialprivacy.org/) - A website with resources curated by the DP research community. It includes several courses, videos, surveys, and links to other resources.
 
 ### Books
 
@@ -99,11 +103,13 @@ There are several different Awesome lists for federated learning, but this one s
 
 - [OpenFL](https://github.com/securefederatedai/openfl) - Open-source FL framework hosted by the Linux Foundation.
 
-###
-
 ## Homomorphic Encryption
 
 See the **Awesome Homomorphic Encryption List** (github: [jonaschn/awesome-he](https://github.com/jonaschn/awesome-he)).
+
+### Organizations
+
+- [https://homomorphicencryption.org/](Homomorphic Encryption Standardization) - A body consisting of industry, government, and academic members advocating for standardization of HE.
 
 ### Blogs
 
@@ -112,6 +118,10 @@ See the **Awesome Homomorphic Encryption List** (github: [jonaschn/awesome-he](h
 ## Secure Multiparty Computation
 
 See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/rdragos/awesome-mpc)).
+
+### Organizations
+
+- [MPC Alliance](https://www.mpcalliance.org/) - Industry group devoted to increasing adoption of MPC. Includes links to several books and videos.
 
 ### Videos
 
@@ -127,7 +137,8 @@ See the **Awesome MPC List** (github: [rdragos/awesome-mpc](https://github.com/r
 
 See the **Awesome Zero Knowledge Proofs List** (github: [https://github.com/matter-labs/awesome-zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs))
 
-### General
+### Organizations
+
 - [ZKProof](https://zkproof.org/) - An open-industry academic initiative seeking to develop standards for ZKPs. The organization also conducts workshops, publishes research, educational material, etc.
 
 ### Blogs and Tutorials
