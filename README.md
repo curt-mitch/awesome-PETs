@@ -17,6 +17,8 @@
 
 General resources about PETs and related concepts
 
+For general privacy tools and services, see the **Awesome Privacy List** (github: [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)).
+
 ### Articles
 
 - [Privacy Enhancing Technologies: An Introduction for Technologists](https://martinfowler.com/articles/intro-pet.html) - Overview of PETs from Katharine Jarmul, the author of Practical Data Privacy.
