@@ -4,14 +4,40 @@
 
 ## Contents
 
-- [General](#general)
-- [Differential Privacy](#differential-privacy)
-- [Privacy-Preserving Federated Learning](#privacy-preserving-federated-learning)
-- [Homomorphic Encryption](#homomorphic-encryption)
-- [Secure Multiparty Computation](#secure-multiparty-computation)
-- [Synthetic Data](#synthetic-data)
-- [Zero-knowledge Proofs and zk-SNARKs](#zero-knowledge-proofs-and-zk-snarks)
-- [Privacy-Preserving Hardware](#privacy-preserving-hardware)
+- [Awesome PETs ](#awesome-pets-)
+  - [Contents](#contents)
+  - [General](#general)
+    - [Articles](#articles)
+    - [Books](#books)
+    - [Blogs](#blogs)
+    - [Papers](#papers)
+    - [Podcasts](#podcasts)
+  - [Differential Privacy](#differential-privacy)
+    - [Organizations](#organizations)
+    - [Blogs](#blogs-1)
+    - [Books](#books-1)
+    - [Open-Source Tools](#open-source-tools)
+    - [Papers](#papers-1)
+    - [Videos](#videos)
+  - [Privacy-Preserving Federated Learning](#privacy-preserving-federated-learning)
+    - [Papers](#papers-2)
+    - [Open-Source Tools](#open-source-tools-1)
+  - [Homomorphic Encryption](#homomorphic-encryption)
+    - [Organizations](#organizations-1)
+    - [Blogs](#blogs-2)
+  - [Secure Multiparty Computation](#secure-multiparty-computation)
+    - [Organizations](#organizations-2)
+    - [Videos](#videos-1)
+  - [Synthetic Data](#synthetic-data)
+    - [Tools](#tools)
+  - [Zero-knowledge Proofs and zk-SNARKs](#zero-knowledge-proofs-and-zk-snarks)
+    - [Organizations](#organizations-3)
+    - [Blogs and Tutorials](#blogs-and-tutorials)
+    - [Papers](#papers-3)
+    - [Videos](#videos-2)
+  - [Privacy-preserving Hardware](#privacy-preserving-hardware)
+    - [Blogs](#blogs-3)
+  - [Contribute](#contribute)
 
 ## General
 
@@ -99,11 +125,19 @@ There are several different Awesome lists for federated learning, but this one s
 
 - [APPFL](https://github.com/APPFL/APPFL) - Advanced Privacy-Preserving Federated Learning built my Argonne National Labs aimed at high-performance computing applications. Includes differential-privacy and the ability to incorporate other PETs
 
-- [FedML](https://www.fedml.ai/) -  Github Repository: [https://github.com/fedml-ai/fedml](https://github.com/fedml-ai/fedml)
+- [FedML](https://www.fedml.ai/) - Github Repository: [https://github.com/fedml-ai/fedml](https://github.com/fedml-ai/fedml)
 
-- [Flower](https://flower.dev/) - A unified FL framework available in multiple languages. Flower does not include privacy preservation itself, but is intended to be used in conjunction with other ML and PPML frameworks.
+- [FedScale](https://fedscale.ai/) - An open-source FL framework supported by [SymbioticLab](https://symbioticlab.org/) at the University of Michigan, Ann Arbor.
+
+- [Flower](https://flower.dev/) - A unified FL framework available in multiple languages. Flower does include some privacy features under active development, such as differential privacy and secure aggregation.
+
+- [FLUTE](https://github.com/microsoft/msrflute) - A platform for conducting FL simulations supported by Microsoft.
 
 - [OpenFL](https://github.com/securefederatedai/openfl) - Open-source FL framework hosted by the Linux Foundation.
+
+- [pfl](https://apple.github.io/pfl-research/) - A Python framework developed by Apple for efficient PPFL simulations.
+
+- [Tensorflow Federated](https://www.tensorflow.org/federated) - A federated instance of the popular Tensorflow ML library.
 
 ## Homomorphic Encryption
 
